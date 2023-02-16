@@ -1,0 +1,81 @@
+/* Author: Monisha
+Date : 31.12.2022  */
+
+.main {
+    border-top: 4px solid red;
+}
+.html {
+    margin-bottom: 20px;
+    border-bottom: 3px solid #f00;
+    width: 70%;
+    position: relative;
+}
+.css {
+    margin-bottom: 20px;
+    border-bottom: 3px solid #f00;
+    width: 50%;
+    position: relative;
+}
+.php {
+    margin-bottom: 20px;
+    border-bottom: 3px solid #f00;
+    width: 70%;
+    position: relative;
+}
+.js {
+    margin-bottom: 20px;
+    border-bottom: 3px solid #f00;
+    width: 45%;
+    position: relative;
+}
+.percentage {
+    width: 30px;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    position: absolute;
+    right: -30px;
+}
+.ptshp {
+    margin-bottom: 20px;
+    border-bottom: 3px solid #f00;
+    width: 55%;
+    position: relative;
+}
+.illus {
+    margin-bottom: 20px;
+    border-bottom: 3px solid #f00;
+    width: 40%;
+    position: relative;
+}
+.skt {
+    margin-bottom: 20px;
+    border-bottom: 3px solid #f00;
+    width: 80%;
+    position: relative;
+}
+.mac {
+    margin-bottom: 20px;
+    border-bottom: 3px solid #f00;
+    width: 30%;
+    position: relative;
+}
+.lh p {
+    line-height: 15px;
+}
+.hvr:hover {
+    transform: scale(1.5);
+}
+
+@media screen and (max-width: 576px) {
+    .ds {
+        margin-top: 30px;
+    }
+    .align {
+        text-align: left;
+        margin-left: 3%;
+    }
+    .hvr {
+        margin-top: 30px;
+    }
+}
